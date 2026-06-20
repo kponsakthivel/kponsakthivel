@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm K. Ponsaktivel
 
-<!--
-**kponsakthivel/kponsakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Solution Engineer passionate about building business solutions with ERPNext, Frappe, and Python.
 
-Here are some ideas to get you started:
+🔭 Currently working on ERPNext implementations, custom Frappe applications, and workflow automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Continuously learning system architecture, cloud technologies, and modern development practices.
+
+💬 Ask me about ERPNext, Frappe Framework, Python, APIs, and business process automation.
+
+⚡ Interests: Technology, Open Source, Music, Farming, and Exploring New Ideas.
+
+📫 Let's connect and collaborate on innovative solutions that create real business value.
