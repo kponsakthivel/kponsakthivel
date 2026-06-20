@@ -1,6 +1,5 @@
 # Hi there 👋, I'm K. Ponsaktivel
 
-html
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Solution+Engineer;ERPNext+%26+Frappe+Expert;Business+Automation+Specialist;Python+Developer;Digital+Transformation+Enthusiast;Turning+Business+Needs+Into+Solutions" alt="Typing SVG" />
 </p>
