@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">K. Ponsaktivel</h1>
 
 <p align="center">
@@ -90,4 +90,3 @@ Building technology that solves real business problems.
 <h3>Let's Grow Together</h3>
 
 </div>
-```
