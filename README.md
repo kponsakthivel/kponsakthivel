@@ -1,6 +1,4 @@
 
-<h1 align="center">K. Ponsaktivel</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=2563EB&center=true&vCenter=true&width=800&lines=Solution+Engineer;ERPNext+%26+Frappe+Specialist;Business+Automation+Expert;Python+Developer;Digital+Transformation+Consultant" />
 </p>
